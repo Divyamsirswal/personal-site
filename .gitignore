@@ -1,0 +1,27 @@
+# all images, node_modules, etc
+image.png
+image2.png
+image3.png
+image4.png
+image5.png
+image6.png
+image7.png
+image8.png
+image9.png
+image10.png
+
+
+
+# all node_modules
+node_modules
+
+# all logs
+logs
+
+# all cache
+cache
+
+# all temp
+temp
+
+
